@@ -1,1 +1,1 @@
-Complete the task and course regularly.
+Open index.html in your browser or open this link to see th deployed code.
