@@ -1,1 +1,1 @@
-Open index.html in your browser or open this link to see th deployed code.
+Open index.html in your browser or open this link to see th deployed code https://surajkaransingh.github.io/Task1/
